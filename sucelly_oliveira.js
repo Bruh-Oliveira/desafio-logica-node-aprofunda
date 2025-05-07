@@ -90,4 +90,4 @@ function imprimePares(n) {
       : `Reprovado - Média: ${media.toFixed(1)}`;
   }
   console.log("🔟 Média de Notas:", calculaMedia([8, 7, 6]), calculaMedia([5, 6, 4]));
-  
+  // Exercício finalizado por Sucelly Oliveira
